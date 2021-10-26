@@ -1,0 +1,1 @@
+var myList = [['str', 15],['bob', 2],['kuku', 6],['yald', 8],['dog', 7]];
